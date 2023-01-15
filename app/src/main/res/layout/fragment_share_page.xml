@@ -94,6 +94,7 @@
                 android:layout_height="35dp"
                 android:layout_weight="0"
                 android:gravity="center"
+                android:backgroundTint="@color/teal_200"
                 android:text="Edit"
                 android:textSize="8sp" />
 

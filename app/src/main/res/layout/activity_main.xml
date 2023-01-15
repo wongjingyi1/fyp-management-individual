@@ -31,10 +31,10 @@
         android:id="@+id/username"
         android:layout_width="270dp"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
         android:layout_below="@+id/errormessage"
+        android:layout_centerInParent="true"
         android:layout_marginTop="10dp"
-        android:gravity="right"
+        android:gravity="left"
         android:hint="Username"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="302dp" />
@@ -46,7 +46,7 @@
         android:layout_centerInParent="true"
         android:layout_below="@+id/username"
         android:layout_marginTop="20dp"
-        android:gravity="right"
+        android:gravity="left"
         android:hint="Password"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="302dp" />
